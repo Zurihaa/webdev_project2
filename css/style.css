@@ -5,7 +5,7 @@ body {
 #navbar {
   background-color: rgb(255, 0, 0);
   overflow: hidden;
-}   
+}
 
 #nav-container {
     float: left;
@@ -53,7 +53,7 @@ h1 {
   color: #333;
   text-align: center;
   margin-bottom: 10px;
-}  
+}
 
 h2 {
   font-size: 24px;
@@ -111,5 +111,6 @@ th{
     
 video {
   display: block;
-  margin: auto;
-}  
+  margin: 0 auto;
+  width: 80%;
+}
